@@ -1,5 +1,26 @@
 ### Hi! Myself Amit Agarwal👋
 
+![](https://gpvc.arturio.dev/aamit2267)
+<p align="center">
+<a href="https://twitter.com/amitagarwal2312">
+  <img align="left" alt="Amit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/amit-agarwal-34b2281ab">
+  <img align="left" alt="Amit's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/aamit2267">
+  <img align="left" alt="Amit's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/aamit2267">
+  <img align="left" alt="Amit's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://instagram.com/amitagarwal2312">
+  <img align="left" alt="Amit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+</p>
+<br>
+<br>
+
 - 🔭 I’m currently working on Cabme (A Taxi App). 
 - 🌱 I’m currently learning Flutter and UI/UX designing. 
 - 👯 I’m looking to collaborate on Discord.
