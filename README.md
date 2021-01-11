@@ -10,7 +10,9 @@
 - 😄 Pronouns: Flutter Dev
 - ⚡ Fun fact: I always work, never playing games 24/7.
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=aamit2267&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamit2267&hide=html&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&title_color=ffffff&text_color=ffffff&icon_color=fff&bg_color=191919&theme=graywhite">
+<p align="center">
+<a href="https://github.com/aamit2267">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aamit2267&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aamit2267&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
