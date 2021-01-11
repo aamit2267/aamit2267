@@ -12,3 +12,5 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=aamit2267&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamit2267&hide=html&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&title_color=ffffff&text_color=ffffff&icon_color=fff&bg_color=191919&theme=graywhite">
