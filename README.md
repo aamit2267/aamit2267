@@ -11,7 +11,7 @@
 <a href="https://github.com/aamit2267">
   <img align="left" alt="Amit's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/aamit2267">
+<a href="https://t.me/amitagarwal2312">
   <img align="left" alt="Amit's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://instagram.com/amitagarwal2312">
