@@ -45,6 +45,9 @@
 <p align="center">
 <a href="https://github.com/aamit2267">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aamit2267&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aamit2267&layout=compact&langs_count=8&theme=algolia"/>
+  <br>
+  <img src=https://github-readme-streak-stats.herokuapp.com/?user=aamit2267&theme=dark&show-icons=true"/>
 </a>
 </p>
