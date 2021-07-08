@@ -29,7 +29,7 @@
 - 👯 I’m looking to collaborate on Discord.
 - 🤔 I’m looking for help with GetX Documentation.
 - 💬 Ask me about Flutter and Python projects.
-- 📮 My Other social media accounts: [Twitter-@amitagarwal2312](https://twitter.com/amitagarwal2312?s=09), [Instagram-@amitagarwal2312](https://instagram.com/amitagarwal2312) 
+- 📮 My Other social media accounts: [Twitter-@amitagarwal2312](https://twitter.com/amitagarwal2312?s=09), [Instagram-@amitagarwal0106](https://instagram.com/amitagarwal0106) 
 - 😄 Pronouns: Flutter Dev
 - ⚡ Fun fact: I always work, never playing games 24/7.
 
