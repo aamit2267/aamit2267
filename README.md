@@ -5,7 +5,7 @@
 <a href="https://twitter.com/amitagarwal2312">
   <img align="left" alt="Amit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/amit-agarwal-34b2281ab">
+<a href="https://linkedin.com/in/amit-agarwal2267">
   <img align="left" alt="Amit's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/aamit2267">
