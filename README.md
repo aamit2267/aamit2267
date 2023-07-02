@@ -1,6 +1,6 @@
 ### Hi! Myself Amit Agarwal👋
 
-![](https://gpvc.arturio.dev/aamit2267) [![website](https://img.shields.io/badge/PortfolioWebsite-aamit2267.github.io-2648ff?style=flat-square&logo=google-chrome)](https://aamit2267.github.io) 
+<!--- ![](https://gpvc.arturio.dev/aamit2267) [![website](https://img.shields.io/badge/PortfolioWebsite-aamit2267.github.io-2648ff?style=flat-square&logo=google-chrome)](https://aamit2267.github.io) -->
 <p align="center">
 <a href="https://twitter.com/amitagarwal2312">
   <img align="left" alt="Amit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
