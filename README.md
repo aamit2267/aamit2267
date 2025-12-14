@@ -39,7 +39,7 @@ Here are key credentials demonstrating my commitment to enterprise-grade cloud t
 | Badge | Link | Source |
 | :--- | :--- | :--- |
 | [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Amit%20Agarwal-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amit-agarwal2267/) | Connect with me! | LinkedIn |
-| [![Oracle Cloud Infrastructure Foundations Associate](https://img.shields.io/badge/Oracle%20Cloud-OCI%20Foundations-000000?style=for-the-badge&logo=oracle)](https://www.linkedin.com/in/amit-agarwal2267/details/certifications/) | Oracle Certificate | Credly/LinkedIn |
+| [![Oracle Cloud Infrastructure Foundations Associate](https://img.shields.io/badge/Oracle%20Cloud-OCI%20Foundations-000000?style=for-the-badge&logo=oracle)](https://www.linkedin.com/in/amit-agarwal2267/details/certifications/) | Oracle Certificate | LinkedIn |
 | [![Java Programming Badge](https://img.shields.io/badge/Java-Professional-F8981D?style=for-the-badge&logo=java)](https://www.linkedin.com/in/amit-agarwal2267/) | Core Language Skill | Self/Cert |
 
 ---
